@@ -1,25 +1,30 @@
-# CMPT310 Assignment 4
+# Handwritten Prime Digits Detection with Neural Networks
 
 Simon Fraser University CMPT310 - Artificial Intelligence Survey
 Fall 2019
 
 ## Assignment Description
 
-In this assignment we will use Multi Layer Pertrons to detect handwritten prime digits. But before doing such a difficult task I suggest to try and solve an easier problem with MLP. If you succeed, which I know you will, you can proceed with tackling the challenging problem of detecting handwritten prime digits.
+Using Multi Layer Perceptrons to detect handwritten prime digits.
 
 ### Assignment URL
 
-[Click here](https://coursys.sfu.ca/2019fa-cmpt-310-d1/pages/A4.pdf/view) to see the full assignment
+[Click here](https://coursys.sfu.ca/2019fa-cmpt-310-d1/pages/A4.pdf/view) to view detailed assignment guideline.
 
-### Language used
+### Submitted Report
+
+[Click here](https://github.com/wendyhwl/Prime-Digits-Detection-NN/blob/main/Report.pdf) to view the submitted report.
+
+### Language
 
 Python
 
 ## Author
 
-**Wendy Huang**
+Wendy Huang
 
-## Grade & Feedback
+## Ackowledgement
 
-* **Score**: 100/100
-* **Marker's Comments**: None
+Assignment created by CMPT310 instructor Maxwell Libbrecht.
+
+[SFU Academic Integrity](http://www.sfu.ca/students/academicintegrity.html)
