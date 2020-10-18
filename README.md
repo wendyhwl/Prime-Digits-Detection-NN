@@ -15,15 +15,11 @@ Using Multi Layer Perceptrons to detect handwritten prime digits.
 
 [Click here](https://github.com/wendyhwl/Prime-Digits-Detection-NN/blob/main/Report.pdf) to view the submitted report.
 
-### Language
+## Language
 
 Python
 
-## Author
-
-Wendy Huang
-
-## Ackowledgement
+## Acknowledgement
 
 Assignment created by CMPT310 instructor Maxwell Libbrecht.
 
